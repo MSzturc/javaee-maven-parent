@@ -18,13 +18,9 @@ The Java Maven parent POM provides default configuration for JavaEE7 based Maven
   
 * Includes Maven Profiles for embedded testing of managed javaee application on the following application servers:
 
-  * Glassfish 3.1.2.2
-  * Glassfish 4.0
-  * Glassfish 4.1
-  * TomEE 1.7.1
-  * Wildfly 8.0
-  * Wildfly 8.1
-  * Wildfly 8.2
+  * Glassfish
+  * TomEE
+  * Wildfly
 
 
 Usage
