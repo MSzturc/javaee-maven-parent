@@ -15,7 +15,9 @@ The Java Maven parent POM provides default configuration for JavaEE7 based Maven
   * drone
   * graphene
   * selenium
+  
 * Includes Maven Profiles for embedded testing of managed javaee application on the following application servers:
+
   * Glassfish 3.1.2.2
   * Glassfish 4.0
   * Glassfish 4.1
