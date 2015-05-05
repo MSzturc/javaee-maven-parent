@@ -15,6 +15,8 @@
     <name>JavaEE Parent Project</name>
     
     <properties>
+        <failOnMissingWebXml>false</failOnMissingWebXml>
+        
         <javaee.version>7.0</javaee.version>
         <arquillian.version>1.1.8.Final</arquillian.version>
         <shrinkwrap.version>2.1.1</shrinkwrap.version>
